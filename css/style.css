@@ -14,3 +14,22 @@ img {
     display: block;
 }
 
+/* 
+    GENERAL
+*/
+
+.box {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: lightcoral;
+    border: 1px solid white;
+}
+
+.inner-box {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: darkseagreen;
+    border: 1px solid lightcoral;
+}
